@@ -31,7 +31,7 @@ Also added the functionality of a currency exchange API that can convert from th
 
 
 ### NYT Article Search and Analyzer
-Python and the Flask framework was used to allow user to enter search terms which would then be quiered against a NYT API to return the most relevant and recent articles containing those search terms.
+Python and the Flask framework was used to allow user to enter search terms which would then be queried against a NYT API to return the most relevant and recent articles containing those search terms.
 Used a second NYT API to display the top comment on each of those articles if available.
 ![NYT_article_search](NYT_article_search.gif)
 
